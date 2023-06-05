@@ -8,9 +8,9 @@ Basic programming with Laravel 8, Vue 3 and JSON API for Blogs
 
 1. Create a project: composer create-project laravel/laravel master --prefer-dist
 2. Configuring the Laravel application .env
-3. Composer require laravel/breeze --dev
-php artisan breeze:install
-4. Create database: php artisan migrate
+3. - Composer require laravel/breeze --dev
+- php artisan breeze:install
+4. Create databases: php artisan migrate
 5. Create Models
 6. Create Controllers-API
 7. Create Routers-API
