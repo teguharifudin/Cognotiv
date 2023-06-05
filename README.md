@@ -2,7 +2,7 @@
 
 # Cognotiv
 
-Basic programming with Laravel 8, Vue 8 and JSON API for Blogs
+Basic programming with Laravel 8, Vue 3 and JSON API for Blogs
 
 ## Installation
 
