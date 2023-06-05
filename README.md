@@ -42,4 +42,4 @@ $ ./tool.sh build
 
 Output:
 
-> Laravel 8, Vue 3, SPA
+> Laravel 8, Vue 3, SPA, JSON
