@@ -42,4 +42,8 @@ $ ./tool.sh build
 
 Output:
 
-> Laravel 8, Vue 3, SPA, JSON
+> Laravel 8, Vue 3, SPA, API
+
+More information:
+
+> https://www.teguharief.com/blog/backend-frontend-with-laravel-8-vue-js-3-and-api-for-blogs
