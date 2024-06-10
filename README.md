@@ -7,11 +7,21 @@ Laravel 8, Vue.js 3, Tailwind CSS v3.0 SPA (Single Page Application) CRUD using 
 ## Installation
 
 ```
-git clone https://github.com/teguharifudin/Cognotiv.git Cognotiv
+git clone https://github.com/teguharifudin/Cognotiv.git
+```
+```
 cd Cognotiv
+```
+```
 composer install
+```
+```
 php artisan migrate // Make sure you update database details in .env
+```
+```
 npm install //Make sure dependencies in package.json
+```
+```
 npm run dev
 ```
 
