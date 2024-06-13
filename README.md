@@ -19,7 +19,7 @@ composer install
 php artisan migrate // Make sure you update database details in .env
 ```
 ```
-npm install //Make sure dependencies in package.json
+npm install // Make sure dependencies in package.json
 ```
 ```
 npm run dev
